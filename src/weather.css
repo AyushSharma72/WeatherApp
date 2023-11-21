@@ -65,7 +65,7 @@ body {
   font-family: 'Times New Roman', Times, serif;
 }
 
-@media only screen and (max-width:425px) {
+@media only screen and (max-width:768px) {
   .OuterBox {
     height: 70%;
     width: 100%;
