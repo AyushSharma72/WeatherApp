@@ -74,5 +74,8 @@ body {
   .Cross {
     right:21%;
   }
-
+.ParentDiv {
+    padding: 0 1rem;
+   
+  }
 }
